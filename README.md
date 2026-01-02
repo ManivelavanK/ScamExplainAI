@@ -68,7 +68,6 @@ AI-powered scam awareness platform that analyzes suspicious messages and provide
 4. **User-Friendly** – Simple for non-technical users
 5. **Production Ready** – Fully deployed and accessible
 
----
 ## TEAM NAME
 - ROBIC ROVERS
 - **TEAM LEAD** : MANIVELAVAN K
