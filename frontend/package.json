@@ -1,0 +1,16 @@
+{
+  "name": "scamexplain-ai-frontend",
+  "version": "1.0.0",
+  "description": "ScamExplain AI Frontend - Digital Scam Detection",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve public",
+    "build": "echo 'No build process needed for static files'"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

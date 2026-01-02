@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ScamExplain AI - Digital Scam Detection</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🛡️ ScamExplain AI</h1>
+      <p class="tagline">"Understand before you click."</p>
+      <p class="subtitle">Powered by Google Gemini AI</p>
+    </header>
+
+    <main>
+      <div class="input-section">
+        <label for="message">Paste suspicious message here:</label>
+        <textarea id="message" placeholder="Example: Your bank account will be blocked. Click here to verify..."></textarea>
+        <button onclick="analyze()" id="analyzeBtn">🔍 Analyze Message</button>
+      </div>
+
+      <div class="result-section">
+        <div id="output"></div>
+      </div>
+
+      <div class="examples" style="display: none;">
+        <h3>Try these examples:</h3>
+        <div class="example-buttons">
+          <button onclick="loadExample('phishing')" class="example-btn">Phishing</button>
+          <button onclick="loadExample('financial')" class="example-btn">Financial</button>
+          <button onclick="loadExample('lottery')" class="example-btn">Lottery</button>
+          <button onclick="loadExample('tech')" class="example-btn">Tech Support</button>
+          <button onclick="loadExample('investment')" class="example-btn">Investment</button>
+          <button onclick="loadExample('employment')" class="example-btn">Employment</button>
+          <button onclick="loadExample('romance')" class="example-btn">Romance</button>
+          <button onclick="loadExample('rental')" class="example-btn">Rental</button>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
