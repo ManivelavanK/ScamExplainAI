@@ -1,7 +1,5 @@
 # 🛡️ ScamExplain AI - Digital Scam Awareness & Detection
 
-**Team:** Robic Rovers | **Lead:** Manivelavan K | **Tagline:** "Understand before you click."
-
 ## 🔴 Problem Statement
 Digital scams are increasing worldwide. Users receive suspicious messages but don't understand if they're scams or why. Existing tools focus on detection but fail to explain scams in simple, user-friendly language.
 
@@ -69,6 +67,14 @@ AI-powered scam awareness platform that analyzes suspicious messages and provide
 3. **Google AI Integration** – Cutting-edge technology
 4. **User-Friendly** – Simple for non-technical users
 5. **Production Ready** – Fully deployed and accessible
+
+---
+
+TEAM NAME : ROBIC ROVERS
+TEAM LEAD : MANIVELAVAN K
+TEAM MEMBER 1 : JOSEPH SAM M
+TEAM MEMBER 2 : HARSHAN K
+TEAM MEMBER 3 : JAI ADHITHYA K
 
 ---
 **ScamExplain AI** - *Making the digital world safer, one message at a time.* 🛡️
