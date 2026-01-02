@@ -69,12 +69,12 @@ AI-powered scam awareness platform that analyzes suspicious messages and provide
 5. **Production Ready** – Fully deployed and accessible
 
 ---
-
-**TEAM NAME** : ROBIC ROVERS
+## TEAM NAME
+- ROBIC ROVERS
 **TEAM LEAD** : MANIVELAVAN K
-**TEAM MEMBER 1** : JOSEPH SAM M
-**TEAM MEMBER 2** : HARSHAN K
-**TEAM MEMBER 3** : JAI ADHITHYA K
+1. **TEAM MEMBER 1** : JOSEPH SAM M
+2. **TEAM MEMBER 2** : HARSHAN K
+3. **TEAM MEMBER 3** : JAI ADHITHYA K
 
 ---
 **ScamExplain AI** - *Making the digital world safer, one message at a time.* 🛡️
